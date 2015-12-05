@@ -1,0 +1,75 @@
+Doctor ID, Username, Patient ID,First Name,Last Name,Date of Birth,Address,Phone Number,Billing Cycle,Medical Condition,Comments
+-2012883246,     joshhartnett,-693945873,Leilani,Collins,29/07/2015,6375 Convallis Street,845571027, Annual,Amelanism,luctus felis purus ac tellus. Suspendisse sed dolor. Fusce mi
+-2012883246,     joshhartnett,-437178689,Ori,Stevens,26/09/2016,6891 Sed Rd.,800925398,Monthly ,Anthrax,"auctor odio a purus. Duis elementum, dui quis accumsan convallis,"
+-2012883246,     joshhartnett,585469121,Latifah,Marsh,16/09/2015,6679 Rutrum Ave,845459603,Monthly ,Dermatitis,"montes, nascetur ridiculus mus. Aenean eget magna. Suspendisse tristique neque"
+-2012883246,     joshhartnett,343070611,Casey,Fletcher,31/03/2015,Ap #809-857 Risus. Av.,780585205, Quarterly ,Peritonitis,Nullam ut nisi a odio semper cursus. Integer mollis. Integer
+-2012883246,     joshhartnett,-341577078,Sophia,Obrien,27/02/2015,"P.O. Box 153, 4501 Facilisis St.",845634169, Quarterly ,Amelanism,"sed pede nec ante blandit viverra. Donec tempus, lorem fringilla"
+-2012883246,     joshhartnett,-1916139876,John,House,19/05/2016,Ap #708-6635 Varius Avenue,800179950,Monthly ,Keratitis,sagittis lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas hendrerit
+-2012883246,     joshhartnett,1767845261,Talon,Webster,01/06/2016,9794 Duis Road,701160534, Annual,Epiglottitis,"dui quis accumsan convallis, ante lectus convallis est, vitae sodales"
+-2012883246,     joshhartnett,-1169926048,Rigel,Lewis,24/12/2014,Ap #442-3321 Suscipit Rd.,749716747,Monthly ,Dermatitis,"Donec elementum, lorem ut aliquam iaculis, lacus pede sagittis augue,"
+-2012883246,     joshhartnett,1151898208,Ivan,Mcintosh,08/06/2016,956-3006 In Avenue,782064433,Monthly ,Malaria,"nibh. Phasellus nulla. Integer vulputate, risus a ultricies adipiscing, enim"
+-2012883246,     joshhartnett,-51465958,Regina,Weeks,08/01/2015,4204 Purus. Av.,770553390, Annual,Prostatitis,et netus et malesuada fames ac turpis egestas. Aliquam fringilla
+-805114039,     sallyfish,900502596,Alexis,Pearson,22/12/2015,790-4812 Sodales. Rd.,714275629, Annual,Sacroiliitis,et nunc. Quisque ornare tortor at risus. Nunc ac sem
+-805114039,     sallyfish,-1066030386,Meredith,Zimmerman,19/01/2016,Ap #977-294 Orci Street,800613646, Quarterly ,Keratoderma,"mauris. Integer sem elit, pharetra ut, pharetra sed, hendrerit a,"
+-805114039,     sallyfish,-486983899,Hall,Thornton,15/06/2016,776-1919 Mi St.,800314783, Annual,Leukorrhea,"egestas lacinia. Sed congue, elit sed consequat auctor, nunc nulla"
+-805114039,     sallyfish,1489660556,Jerry,Noble,31/01/2016,922-7241 Porta Ave,700650890, Annual,Atelectasis,"auctor non, feugiat nec, diam. Duis mi enim, condimentum eget,"
+-805114039,     sallyfish,-91008695,Tatiana,Blake,28/05/2015,3164 Arcu. Rd.,800825946,Monthly ,Sacroiliitis,"nunc nulla vulputate dui, nec tempus mauris erat eget ipsum."
+-805114039,     sallyfish,851024233,Sylvester,Owens,10/01/2015,"P.O. Box 329, 2388 Quis St.",845821746, Annual,Epiglottitis,luctus et ultrices posuere cubilia Curae; Phasellus ornare. Fusce mollis.
+-805114039,     sallyfish,-755436630,Carly,Garza,12/08/2015,"P.O. Box 816, 6298 In Rd.",707321893, Quarterly ,Epiglottitis,velit. Pellentesque ultricies dignissim lacus. Aliquam rutrum lorem ac risus.
+-805114039,     sallyfish,2061182015,Zelenia,Daugherty,26/12/2015,Ap #715-6517 Sociis Road,748200585, Quarterly ,Keratoderma,"feugiat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam"
+-805114039,     sallyfish,907603010,Hashim,Stephens,27/06/2015,"P.O. Box 939, 7116 Gravida Avenue",765169979, Quarterly ,Sacroiliitis,"eleifend vitae, erat. Vivamus nisi. Mauris nulla. Integer urna. Vivamus"
+-805114039,     sallyfish,-799009672,Charlotte,Richards,12/07/2015,7803 Aliquam Rd.,752429894, Quarterly ,Amelanism,sapien molestie orci tincidunt adipiscing. Mauris molestie pharetra nibh. Aliquam
+517240072,     abisharp,-1841833091,Paloma,Henderson,22/02/2016,"Ap #857-8420 Mauris, Rd.",800571694, Annual,Peritonitis,"lectus rutrum urna, nec luctus felis purus ac tellus. Suspendisse"
+517240072,     abisharp,157445327,Kaseem,Watson,08/08/2015,939-5714 Euismod St.,800607440, Quarterly ,Leukorrhea,erat eget ipsum. Suspendisse sagittis. Nullam vitae diam. Proin dolor.
+517240072,     abisharp,1206194195,Inga,Warren,10/07/2015,6656 Suspendisse Avenue,723952073, Quarterly ,Anthrax,"lacinia at, iaculis quis, pede. Praesent eu dui. Cum sociis"
+517240072,     abisharp,-1240327158,Vaughan,Mckee,10/04/2015,Ap #553-2478 Aliquet. Avenue,845875004,Monthly ,Zoophilia,"dis parturient montes, nascetur ridiculus mus. Donec dignissim magna a"
+517240072,     abisharp,-860209441,Sarah,Durham,08/11/2015,3513 Augue St.,776508181, Quarterly ,Peritonitis,quam dignissim pharetra. Nam ac nulla. In tincidunt congue turpis.
+-828922863,     grantold,962172395,Melissa,Ferguson,04/02/2016,4732 Aliquam Av.,800772764,Monthly ,Anthrax,nec mauris blandit mattis. Cras eget nisi dictum augue malesuada
+-828922863,     grantold,1143888898,Theodore,Allen,12/01/2015,373-9077 Sed St.,845572203, Quarterly ,Amelanism,"felis ullamcorper viverra. Maecenas iaculis aliquet diam. Sed diam lorem,"
+-828922863,     grantold,-1693612922,Erasmus,Burnett,03/03/2015,Ap #251-4729 Arcu. Rd.,800759505, Quarterly ,Salmonella,Curabitur egestas nunc sed libero. Proin sed turpis nec mauris
+-828922863,     grantold,1924897753,Stephanie,Riggs,03/06/2016,Ap #566-2778 Gravida St.,800192465, Quarterly ,Leukorrhea,lectus justo eu arcu. Morbi sit amet massa. Quisque porttitor
+-828922863,     grantold,-308639551,Nero,Davenport,27/05/2016,9038 Duis Avenue,777099826, Annual,Atelectasis,"Nullam scelerisque neque sed sem egestas blandit. Nam nulla magna,"
+-828922863,     grantold,1737089284,Alisa,Brooks,23/05/2016,Ap #843-4704 Penatibus St.,800536614,Monthly ,Prostatitis,tristique aliquet. Phasellus fermentum convallis ligula. Donec luctus aliquet odio.
+-828922863,     grantold,167200614,Sloane,Jimenez,24/04/2016,"180-2174 Congue, Av.",785270897, Quarterly ,Malaria,"pellentesque massa lobortis ultrices. Vivamus rhoncus. Donec est. Nunc ullamcorper,"
+-828922863,     grantold,368125263,Shannon,Delaney,23/04/2016,1973 Malesuada Rd.,792629597,Monthly ,Sacroiliitis,Proin ultrices. Duis volutpat nunc sit amet metus. Aliquam erat
+-828922863,     grantold,-196286147,Bethany,Pierce,24/08/2016,6468 Amet Av.,800595762, Annual,Stenosis,"Fusce aliquam, enim nec tempus scelerisque, lorem ipsum sodales purus,"
+-828922863,     grantold,-403407929,Branden,Trujillo,04/08/2015,373-834 Neque Rd.,800480098,Monthly ,Stenosis,egestas. Fusce aliquet magna a neque. Nullam ut nisi a
+-828922863,     grantold,-192413388,Octavia,Stein,30/08/2015,Ap #455-6346 Neque Road,845403457,Monthly ,Salmonella,tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam
+-925020892,     evan,-1859810955,Fuller,Allen,24/04/2015,Ap #674-5173 Vel Rd.,800190291, Annual,Malaria,"et, euismod et, commodo at, libero. Morbi accumsan laoreet ipsum."
+-925020892,     evan,705900812,Ruth,Cochran,31/03/2015,7338 Pellentesque. St.,791369767, Annual,Atelectasis,"eu, ultrices sit amet, risus. Donec nibh enim, gravida sit"
+-925020892,     evan,1113639736,Zia,Grimes,07/04/2015,Ap #595-3531 A St.,780515281, Annual,Amelanism,orci. Phasellus dapibus quam quis diam. Pellentesque habitant morbi tristique
+-925020892,     evan,8770079,Octavia,Walton,27/11/2016,"P.O. Box 909, 2093 Quisque Street",775209515, Quarterly ,Zoophilia,"vel est tempor bibendum. Donec felis orci, adipiscing non, luctus"
+-924802033,     maxm,2141637485,Camden,Hatfield,01/11/2015,"5253 In, Av.",744185285, Quarterly ,Stenosis,porttitor scelerisque neque. Nullam nisl. Maecenas malesuada fringilla est. Mauris
+-924802033,     maxm,1847153989,Aidan,Frank,08/08/2016,7592 Sagittis Ave,800324505, Quarterly ,Sacroiliitis,at sem molestie sodales. Mauris blandit enim consequat purus. Maecenas
+-924802033,     maxm,-876683879,Chester,Garcia,15/03/2015,"Ap #153-9771 Non, Road",743616334,Monthly ,Pneumothorax,"nulla. Integer vulputate, risus a ultricies adipiscing, enim mi tempor"
+-924802033,     maxm,869961164,Jason,Grimes,26/09/2015,Ap #953-6396 Sed Rd.,800710596, Annual,Zoophilia,"Sed auctor odio a purus. Duis elementum, dui quis accumsan"
+-924802033,     maxm,-311824513,Lesley,Hooper,23/01/2015,"P.O. Box 442, 4380 Aliquam Rd.",794822469, Quarterly ,Keratoderma,Curae; Donec tincidunt. Donec vitae erat vel pede blandit congue.
+-924802033,     maxm,338123031,Georgia,Chang,17/04/2015,3116 Eros Road,845100289, Annual,Prostatitis,"adipiscing, enim mi tempor lorem, eget mollis lectus pede et"
+-924802033,     maxm,849324301,Wyatt,Coffey,26/05/2016,Ap #424-1757 Tempor Rd.,800379532, Quarterly ,Anthrax,"eleifend, nunc risus varius orci, in consequat enim diam vel"
+-924802033,     maxm,-2096316337,Hermione,Ruiz,25/02/2015,Ap #216-919 Tempor Av.,800332359, Annual,Dermatitis,sapien. Nunc pulvinar arcu et pede. Nunc sed orci lobortis
+-924802033,     maxm,-1676036084,Vivian,Rasmussen,13/09/2016,Ap #195-7402 Ac St.,845918022, Annual,Peritonitis,"pharetra ut, pharetra sed, hendrerit a, arcu. Sed et libero."
+-924802033,     maxm,109927105,Acton,Foreman,27/11/2016,688-2216 Nunc St.,768330360,Monthly ,Malaria,ornare. Fusce mollis. Duis sit amet diam eu dolor egestas
+-928143024,     fp,-845713956,Leilani,Sykes,18/03/2015,"P.O. Box 422, 4053 Nulla Road",800437412, Quarterly ,Prostatitis,Sed eu eros. Nam consequat dolor vitae dolor. Donec fringilla.
+-928143024,     fp,1122056515,Beau,Bond,06/04/2016,816 Mauris St.,800507691, Quarterly ,Epiglottitis,"Nunc ac sem ut dolor dapibus gravida. Aliquam tincidunt, nunc"
+-928143024,     fp,2089639186,Rooney,Gonzales,07/11/2015,"P.O. Box 521, 7563 Nulla Rd.",845871229, Quarterly ,Leukorrhea,"dapibus rutrum, justo. Praesent luctus. Curabitur egestas nunc sed libero."
+-928143024,     fp,1614427533,Helen,Kerr,12/10/2015,"P.O. Box 255, 6987 Rutrum, St.",800516536,Monthly ,Amelanism,"sodales. Mauris blandit enim consequat purus. Maecenas libero est, congue"
+-928143024,     fp,1344995092,Iona,Pope,09/01/2015,"P.O. Box 898, 3111 Est. Avenue",800486684, Annual,Pneumothorax,ac turpis egestas. Fusce aliquet magna a neque. Nullam ut
+-924813243,     lucy,-2032340511,Fiona,Owens,20/07/2016,4791 Penatibus Avenue,783923277, Quarterly ,Anthrax,luctus felis purus ac tellus. Suspendisse sed dolor. Fusce mi
+-924813243,     lucy,1712710995,Kirestin,Baxter,10/10/2016,"P.O. Box 824, 4228 Mi St.",845418022, Annual,Peritonitis,Praesent eu dui. Cum sociis natoque penatibus et magnis dis
+-924813243,     lucy,-1368394964,George,Stevenson,04/09/2016,"1590 Vestibulum, St.",800209937,Monthly ,Stenosis,"lorem. Donec elementum, lorem ut aliquam iaculis, lacus pede sagittis"
+-924813243,     lucy,-2129551811,Kalia,Atkinson,10/03/2016,"P.O. Box 680, 1418 Placerat. Rd.",845799415,Monthly ,Atelectasis,"enim, gravida sit amet, dapibus id, blandit at, nisi. Cum"
+-924813243,     lucy,-408341583,Sophia,Hatfield,01/10/2016,"P.O. Box 585, 395 Natoque St.",759932330, Quarterly ,Prostatitis,"feugiat nec, diam. Duis mi enim, condimentum eget, volutpat ornare,"
+-924813243,     lucy,-696808240,Benedict,Mcbride,07/06/2015,"P.O. Box 877, 6265 Nec Rd.",800328950, Quarterly ,Malaria,"nisi nibh lacinia orci, consectetuer euismod est arcu ac orci."
+331094400,     hugocam,-921600333,Imani,Compton,30/01/2015,7249 Nunc. St.,845256820, Quarterly ,Zoophilia,risus. Nulla eget metus eu erat semper rutrum. Fusce dolor
+331094400,     hugocam,-76543326,Eleanor,Hester,01/04/2015,Ap #958-1094 Volutpat St.,744248786,Monthly ,Stenosis,"et magnis dis parturient montes, nascetur ridiculus mus. Aenean eget"
+331094400,     hugocam,-57362809,Kaseem,Horton,29/06/2016,433 Parturient St.,795695334,Monthly ,Pneumothorax,blandit mattis. Cras eget nisi dictum augue malesuada malesuada. Integer
+331094400,     hugocam,2071034195,Damian,Reed,21/12/2014,1663 Consequat Street,800392203, Annual,Dermatitis,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+331094400,     hugocam,-120848583,Ivory,Rosales,18/07/2016,"P.O. Box 227, 1213 Nec Rd.",845163675,Monthly ,Sacroiliitis,"non, lobortis quis, pede. Suspendisse dui. Fusce diam nunc, ullamcorper"
+331094400,     hugocam,785048362,Tatiana,Lester,18/08/2016,Ap #241-5329 Integer Rd.,800058951, Quarterly ,Sacroiliitis,"vitae nibh. Donec est mauris, rhoncus id, mollis nec, cursus"
+331094400,     hugocam,-1943031124,Jaime,Goodman,24/08/2015,831-1970 Molestie Avenue,800222448, Quarterly ,Keratitis,"euismod et, commodo at, libero. Morbi accumsan laoreet ipsum. Curabitur"
+331094400,     hugocam,-407242828,Basia,Jones,13/11/2015,"P.O. Box 216, 4451 Non St.",845774980,Monthly ,Keratitis,"posuere, enim nisl elementum purus, accumsan interdum libero dui nec"
+-924809391,    lydb,-350813479,Allen,Pittman,03/09/1952,6520 Cursus. Road,07568396385,Monthly,Salmonella,ligula. Nullam feugiat placerat velit. Quisque varius. Nam porttitor scelerisque
+-924809391,     lydb,2029268338,Dominic,Bass,18/10/2016,909 In Rd.,800644611,Monthly,Stenosis,a  dui. Cras pellentesque. Sed dictum. Proin eget odio. Aliquam
+-924809391,    lydb,-1304511956,Florence,Zamora,,,,Monthly,,
+-924809391,    lydb,124963060,Chester,Sharp,,,,Monthly,,
+-924809391,          lydb,-1102430806,Grant,Huber,,,,Monthly,,
